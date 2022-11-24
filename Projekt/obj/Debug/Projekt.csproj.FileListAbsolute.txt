@@ -1,0 +1,93 @@
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\bin\Debug\EntityFramework.dll
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\bin\Debug\EntityFramework.xml
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.SuggestedBindingRedirects.cache
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\MainWindow.g.cs
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\App.g.cs
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt_Content.g.cs
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\MainWindow.baml
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt.g.resources
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Tovar.g.cs
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\Tovar.baml
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\deleted.g.cs
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\listpay.g.cs
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\sortirovka.g.cs
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\deleted.baml
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\listpay.baml
+C:\UsersProfile\pr10timoshenko\source\repos\Projekt\Projekt\obj\Debug\sortirovka.baml
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\bin\Debug\EntityFramework.dll
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\bin\Debug\EntityFramework.xml
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.SuggestedBindingRedirects.cache
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\deleted.g.cs
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\listpay.g.cs
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\MainWindow.g.cs
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\sortirovka.g.cs
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Tovar.g.cs
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\App.g.cs
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt_Content.g.cs
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\deleted.baml
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\listpay.baml
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\MainWindow.baml
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\sortirovka.baml
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Tovar.baml
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt.g.resources
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\bin\Debug\itextsharp.dll
+C:\UsersProfile\pr10matafonov\Desktop\Projekt\Projekt\bin\Debug\itextsharp.xml
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\bin\Debug\Projekt.exe
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\bin\Debug\EntityFramework.dll
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\bin\Debug\itextsharp.dll
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\bin\Debug\EntityFramework.xml
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\bin\Debug\itextsharp.xml
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\deleted.g.cs
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\listpay.g.cs
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\sortirovka.g.cs
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Tovar.g.cs
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\App.g.cs
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt_Content.g.cs
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\deleted.baml
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\listpay.baml
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\MainWindow.baml
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\sortirovka.baml
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Tovar.baml
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt.g.resources
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt.exe
+C:\Users\Админ\OneDrive\Рабочий стол\matafonov-kiselev-main\Projekt\obj\Debug\Projekt.pdb
